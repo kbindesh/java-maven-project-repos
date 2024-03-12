@@ -1,3 +1,3 @@
 # java-maven-project-repos
 
-new line added v 2.0
+new line added v 3.0
